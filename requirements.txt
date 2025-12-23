@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+torch
+accelerate>=0.26.0
+scikit-learn
+pandas
+matplotlib
+seaborn

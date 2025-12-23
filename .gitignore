@@ -1,0 +1,34 @@
+# --- Python Virtual Environment ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- Hugging Face & Transformer Artifacts ---
+# This ignores the heavy model weights and checkpoints generated during training
+results/checkpoint-*/
+results/runs/
+results/*.bin
+results/*.pth
+results/*.msgpack
+results/*.h5
+results/*.npy
+# Keep the evaluation plots
+!results/*.png
+
+# --- Dataset Cache ---
+# Hugging Face downloads datasets to a local cache; don't push these
+.cache/
+data/
+
+# --- Environment & Keys ---
+.env
+.DS_Store
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- IDE Settings ---
+.vscode/
+.idea/
