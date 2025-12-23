@@ -50,10 +50,10 @@ Metrics: Scikit-Learn, Evaluate
 
 ```
 ├── src/
-│ ├── train.py # Fine-tuning logic & training loop
-│ └── model_eval.py # Performance visualization & error analysis
-├── results/ # Model metrics and Confusion Matrix plots
-└── requirements.txt # Production dependencies
+│ ├── train.py        # Fine-tuning logic & training loop
+│ └── model_eval.py   # Performance visualization & error analysis
+├── results/          # Model metrics and Confusion Matrix plots
+└── requirements.txt  # Production dependencies
 ```
 
 ---
