@@ -2,9 +2,9 @@
 
 ### High-Performance NLP via Transformer Fine-Tuning
 
-[Python 3.9+](www.python.org)
-[Hugging Face](huggingface.co)
-[PyTorch](pytorch.org)
+[Python 3.9+](https://www.python.org)
+[Hugging Face](https://huggingface.co)
+[PyTorch](https://pytorch.org)
 
 ## Project Overview
 
