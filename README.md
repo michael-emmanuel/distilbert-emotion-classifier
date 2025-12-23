@@ -30,10 +30,10 @@ The model is evaluated on the `dair-ai/emotion` dataset using:
 - **Accuracy**: Overall correctness of the emotion predictions.
 - **Weighted F1-Score**: Used to ensure performance is consistent even if class distributions are imbalanced.
 
-| Metric      | Score    |
-| ----------- | -------- |
-| Accuracy    | [Score]% |
-| Weighted F1 | [Score]  |
+| Metric      | Score |
+| ----------- | ----- |
+| Accuracy    | 91.5% |
+| Weighted F1 | 0.915 |
 
 ---
 
