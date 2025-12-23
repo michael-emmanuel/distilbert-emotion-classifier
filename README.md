@@ -69,5 +69,5 @@ The included Confusion Matrix (results/confusion_matrix.png) provides deep insig
 ```
 Install: pip install -r requirements.txt
 Train: python src/train.py
-Evaluate: python src/evaluate.py
+Evaluate: python src/model_eval.py
 ```
